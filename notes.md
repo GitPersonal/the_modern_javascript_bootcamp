@@ -46,6 +46,8 @@ Hello World!
 1. Numbers
 1.
 
+---
+
 ## Variables notes
 
 You can't define a variable more than once
@@ -55,9 +57,11 @@ You can reassign a variable by reassigning it.
 ```javascript
 //* wrong way to reassign a variable
 let car = "Ford";
+
 let car = "Chevy";
 
 //* correct way to reassign a variable
 let car = "Ford";
+
 car = "Chevy";
 ```
