@@ -5,7 +5,7 @@ let isAccountLocked = true
 if (isAccountLocked){
   console.log('Is account locked')
 } else{
-console.log('Welcomr e to your account')
+console.log('Welcome to your account')
 
 // example 2
 let isAccountLocked = true
@@ -17,11 +17,11 @@ if (isAccountLocked){
 } else if () {
     
 } else{
-console.log('Welcomr e to your account')
+console.log('Welcome to your account')
   
 //   -------------------------------------
-//   *********************************
-  //   -------------------------------------
+//   *************************************
+//   -------------------------------------
   
 if (isAccountLocked) {
   console.log('Is account locked')
