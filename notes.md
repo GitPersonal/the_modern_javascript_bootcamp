@@ -65,3 +65,63 @@ let car = "Ford";
 
 car = "Chevy";
 ```
+
+## Boolean
+
+---
+
+`=== equality operator`
+
+`!== no equal operator`
+
+`< less than operator`
+
+`> greater than operator`
+
+`<= less than or equal to operator`
+
+`>= greater than or equal to operator`
+
+``
+
+```javascript
+let temp = 31;
+
+let isFreezing = temp !== 32;
+
+console.log(isFreezing);
+```
+
+for numbers
+
+```javascript
+let temp = 31;
+
+let isFreezing = temp < 32;
+
+console.log(isFreezing); //true
+```
+
+```javascript
+let temp = 32;
+
+let isFreezing = temp < 32;
+
+console.log(isFreezing); //false
+```
+
+```javascript
+let temp = 100;
+
+let isFreezing = temp > 32;
+
+console.log(isFreezing); //true
+```
+
+```javascript
+let temp = 32;
+
+let isFreezing = temp <= 32;
+
+console.log(isFreezing); //true
+```
