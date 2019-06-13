@@ -82,7 +82,7 @@ car = "Chevy";
 
 `>= greater than or equal to operator`
 
-``
+```
 
 ```javascript
 let temp = 31;
@@ -92,7 +92,7 @@ let isFreezing = temp !== 32;
 console.log(isFreezing);
 ```
 
-for numbers
+**for numbers**
 
 ```javascript
 let temp = 31;
