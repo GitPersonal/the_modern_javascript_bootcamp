@@ -16,7 +16,6 @@ open `terminal`
 
 ## VS Code notes
 
----
 
 `shift + 9` opens and closes parenthesis
 
@@ -34,7 +33,6 @@ Hello World!
 
 ## Challenge
 
----
 
 1. use variables, strings and string concatination
 
@@ -46,7 +44,6 @@ Hello World!
 1. Numbers
 1.
 
----
 
 ## Variables notes
 
@@ -68,7 +65,6 @@ car = "Chevy";
 
 ## Boolean
 
----
 
 `=== equality operator`
 
@@ -82,9 +78,9 @@ car = "Chevy";
 
 `>= greater than or equal to operator`
 
-``
 
 ```javascript
+
 let temp = 31;
 
 let isFreezing = temp !== 32;
@@ -92,7 +88,7 @@ let isFreezing = temp !== 32;
 console.log(isFreezing);
 ```
 
-for numbers
+**for numbers**
 
 ```javascript
 let temp = 31;
