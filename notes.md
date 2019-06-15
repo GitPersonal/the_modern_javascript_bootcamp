@@ -125,3 +125,11 @@ let isFreezing = temp <= 32;
 
 console.log(isFreezing); //true
 ```
+
+## Logical and or
+
+---
+
+Logical And Operator - True if both sides are true. False otherwise
+
+Logical Or Operator - True if at least one side is true. False otherwise
